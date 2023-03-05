@@ -1,0 +1,46 @@
+*
+body{
+    background:#FFFFFF
+    
+}
+.thead{
+    background-color:  #DADADA;
+}
+ .h2{
+width: 152px;
+height: 22px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+margin-right: 25%;
+ }
+  table{
+    border-collapse: collapse;
+ }
+ .thead{
+    
+background: #FFFFFF;
+ }
+
+.td{
+    background-color: #DADADA; 
+    padding: 10px;
+
+}
+ .th1{
+    width: 115px;
+    height: 36px;
+    background: #FFD43A;
+    border-radius: 10px;
+    padding: 5px;;
+ }
+  .th2{
+    width: 115px;
+    height: 36px;
+    background: #E84949;
+    border-radius: 10px;
+    padding: 5px;;
+  }
